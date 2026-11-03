@@ -1,0 +1,10 @@
+build/
+iso_root/
+limine/
+*.o
+*.elf
+*.iso
+*.img
+*.log
+*.bak
+*_dump*.txt
